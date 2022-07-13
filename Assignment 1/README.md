@@ -43,7 +43,7 @@ We have plate resting on a pivot. Either sides of the plate are attached to actu
 the angle of the plate within realistic speeds. The user is going to input a point on the plate with a
 mouse click. Your task is to code a controller which can make the ball reach that point. The system
 follows the ordinary differential equation:\
-![equation](https://latex.codecogs.com/svg.image?%5Cddot%7Bx%7D%20=%20-%5Cfrac%7B5g%7D%7B7%7D%5Ctheta) \
+![equation](https://latex.codecogs.com/svg.image?%5Cddot%7Bx%7D%20=%20-%5Cfrac%7B5g%7D%7B7%7D%5Ctheta)\
 
 **_Happy Coding!!_**
 
