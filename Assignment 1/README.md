@@ -12,7 +12,7 @@ In case you do not have python, and a text editor installed then, we would recom
 
 ### Downloading and Running the code
 
-Download the repo as a zip file by clicking on [this link](https://github.com/erciitb/TSS-Control_Theory.git) and expand it in a convenient location.
+Download the repo as a zip file by clicking on [this link](https://github.com/erciitb/TSS-Control_Theory/archive/refs/heads/main.zip) and expand it in a convenient location.
 
 Now open a terminal inside the directory week 2 within the expanded folder. Then type the following commands to run the code.
 
